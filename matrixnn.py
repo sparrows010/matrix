@@ -15,4 +15,4 @@ for a in range(len(X)):
        result[a][b] = X[a][b] + Y[a][b]
 
 for i in result:
-  print(b)
+  print(i)
